@@ -15,7 +15,7 @@ These attacks happened on Friday 14th October 2022, with the transaction details
 > - [First attack transaction details](https://etherscan.io/tx/0x1f1aba5bef04b7026ae3cb1cb77987071a8aff9592e785dd99860566ccad83d1)
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1666020958688/uI26E4kpW.png align="left")
 
-- [Second attack transaction details](https://etherscan.io/tx/0x160c5950a01b88953648ba90ec0a29b0c5383e055d35a7835d905c53a3dda01e) 
+> - [Second attack transaction details](https://etherscan.io/tx/0x160c5950a01b88953648ba90ec0a29b0c5383e055d35a7835d905c53a3dda01e) 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1666021041268/LWfU92kd6.png align="left")
 
 
